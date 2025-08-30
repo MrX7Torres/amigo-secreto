@@ -2,7 +2,7 @@
 ![Imagen de freepik](https://github.com/user-attachments/assets/64b81949-827e-4467-81d5-9ccb24e0eb26)  
 <h1 align="center"> Juego de Amigo Secreto para el curso ONE </h1>  
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)  
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-green)  
 
 ---
 
